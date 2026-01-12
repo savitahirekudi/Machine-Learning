@@ -1,0 +1,3 @@
+mylist=['college,'university','country']
+x=(mylist)
+x[1]="college_1"
